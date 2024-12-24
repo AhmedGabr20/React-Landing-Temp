@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\components\\contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\components\\navigation.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\navigation.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\components\\gallery.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\gallery.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\components\\services.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\services.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\components\\about.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\about.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\data\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\data\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\components\\features.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\features.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\components\\testimonials.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\testimonials.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\components\\Team.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Team.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "navigation.jsx",
+              "DocumentMoniker": "C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\components\\navigation.jsx",
+              "RelativeDocumentMoniker": "src\\components\\navigation.jsx",
+              "ToolTip": "C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\components\\navigation.jsx",
+              "RelativeToolTip": "src\\components\\navigation.jsx",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-23T20:33:38.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "contact.jsx",
+              "DocumentMoniker": "C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\components\\contact.jsx",
+              "RelativeDocumentMoniker": "src\\components\\contact.jsx",
+              "ToolTip": "C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\components\\contact.jsx",
+              "RelativeToolTip": "src\\components\\contact.jsx",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAowJsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-23T20:32:30.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gallery.jsx",
+              "DocumentMoniker": "C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\components\\gallery.jsx",
+              "RelativeDocumentMoniker": "src\\components\\gallery.jsx",
+              "ToolTip": "C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\components\\gallery.jsx",
+              "RelativeToolTip": "src\\components\\gallery.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-23T20:31:57.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "services.jsx",
+              "DocumentMoniker": "C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\components\\services.jsx",
+              "RelativeDocumentMoniker": "src\\components\\services.jsx",
+              "ToolTip": "C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\components\\services.jsx",
+              "RelativeToolTip": "src\\components\\services.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-23T20:31:23.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "about.jsx",
+              "DocumentMoniker": "C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\components\\about.jsx",
+              "RelativeDocumentMoniker": "src\\components\\about.jsx",
+              "ToolTip": "C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\components\\about.jsx",
+              "RelativeToolTip": "src\\components\\about.jsx",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-23T20:30:57.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "features.jsx",
+              "DocumentMoniker": "C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\components\\features.jsx",
+              "RelativeDocumentMoniker": "src\\components\\features.jsx",
+              "ToolTip": "C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\components\\features.jsx",
+              "RelativeToolTip": "src\\components\\features.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-23T20:30:12.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "testimonials.jsx",
+              "DocumentMoniker": "C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\components\\testimonials.jsx",
+              "RelativeDocumentMoniker": "src\\components\\testimonials.jsx",
+              "ToolTip": "C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\components\\testimonials.jsx",
+              "RelativeToolTip": "src\\components\\testimonials.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-23T20:28:28.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Team.jsx",
+              "DocumentMoniker": "C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\components\\Team.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Team.jsx",
+              "ToolTip": "C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\components\\Team.jsx",
+              "RelativeToolTip": "src\\components\\Team.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-23T20:26:44.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "data.json",
+              "DocumentMoniker": "C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\data\\data.json",
+              "RelativeDocumentMoniker": "src\\data\\data.json",
+              "ToolTip": "C:\\Users\\ahmed.gabr\\Documents\\Test\\Landing Tem React\\1\\React-Landing-Page-Template\\src\\data\\data.json",
+              "RelativeToolTip": "src\\data\\data.json",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAIwIcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T19:56:08.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
