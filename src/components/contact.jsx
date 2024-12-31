@@ -153,7 +153,7 @@ export const Contact = (props) => {
         <div className="container text-center">
           <p>
             &copy;  2025 Ahmed Gabr . Design by{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
+            <a href="https://www.facebook.com/Ahmed.Gabr.2020" rel="nofollow">
               SmartTech
             </a>
           </p>
